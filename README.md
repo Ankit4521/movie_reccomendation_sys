@@ -12,7 +12,6 @@ In addition a data set of the movies includes the movie name and genres.
 * **title**
 * **genres**
 
-The dataset can be found here : https://github.com/Gurupradeep/Movie-Recommendation-System/tree/master/Dataset
 
 ## Approaches Used :
 ### Non Personalised Recommendations
@@ -42,7 +41,7 @@ One popular recommender systems approach is called Matrix Factorisation. It work
 
 
 ## Required Tools
-1. Keras
+1. Streamlit
 2. Scipy
 3. Numpy
 4. Pandas
